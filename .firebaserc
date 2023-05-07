@@ -1,0 +1,21 @@
+{
+  "targets": {
+    "get-stream-io-decoded": {
+      "hosting": {
+        "getstream-chat-angular-example": [
+          "get-stream-io-decoded"
+        ]
+      }
+    },
+    "chatzen-64e57": {
+      "hosting": {
+        "getstream-chat-angular-example": [
+          "chatzen-64e57"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "chatzen-64e57"
+  }
+}
